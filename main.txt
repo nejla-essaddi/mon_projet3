@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 Ligne modifiÃ©e dans main
+=======
+"Ligne initiale dans main" 
+"Ligne ajout‚e dans la branche feature" 
+>>>>>>> feature
